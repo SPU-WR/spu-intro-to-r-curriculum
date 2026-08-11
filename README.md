@@ -10,6 +10,12 @@ A list of resources for learning R at SPU
 * Tidyverse
 * [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/)
 
+## Core concepts
+* Data Wrangling
+  * [Split-Apply-Combine](https://vita.had.co.nz/papers/plyr.pdf)
+* Data visualization
+  * under development
+
 ## Helpful Cheatsheets
 * [Posit Cheatsheet Library](https://rstudio.github.io/cheatsheets/)
   * In order of importance: Data import with `tidyverse` (loading data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
