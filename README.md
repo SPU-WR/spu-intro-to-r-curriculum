@@ -35,7 +35,10 @@ A list of resources for learning R at SPU
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
 ## Entry-level Projects
-* under development
+* Water Specific Examples
+  * Under development
+* Other
+  * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
 
 # Version Control with `git`
 
