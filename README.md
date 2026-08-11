@@ -13,7 +13,7 @@ A list of resources for learning R at SPU
 ## Core concepts
 * Data Wrangling
   * [Split-Apply-Combine](https://vita.had.co.nz/papers/plyr.pdf)
-* Data visualization
+* Data Visualization
   * under development
 
 ## Helpful Cheatsheets
@@ -47,8 +47,6 @@ A list of resources for learning R at SPU
   * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
 
 # Version Control with `git`
-
-
 
 ## Core Textbooks
 * [Chapter 20.1 Git and GitHub in R Packages (2e)](https://r-pkgs.org/software-development-practices.html#sec-sw-dev-practices-git-github)
