@@ -27,7 +27,11 @@ A list of resources for learning R at SPU
   * Data Viz
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
 
+# Useful Courses
+* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
+
 # Useful Blogs
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
 # Entry-level Projects
+* under development
