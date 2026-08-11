@@ -31,6 +31,7 @@ A list of resources for learning R at SPU
     * [Say the quiet part out loud with assertion tests](https://waterdata.usgs.gov/blog/rds-assertions/)
   * Reporting
     * [Duplicating Quarto elements with code templates to reduce copy and paste errors](https://waterdata.usgs.gov/blog/quarto-template-demo/)
+    * [Principles of Plain Language](https://digital.gov/guides/plain-language/principles)
   * Data Viz
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
     * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
