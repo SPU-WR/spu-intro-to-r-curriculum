@@ -1,19 +1,20 @@
 # spu-intro-to-r-curriculum
 A list of resources for learning R at SPU
 
-# Core Textbooks
+# R
+## Core Textbooks
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
 * [R Packages (2e)](https://r-pkgs.org/)
 
-# Core packages
+## Core packages
 * Tidyverse
 * [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/)
 
-# Helpful Cheatsheets
+## Helpful Cheatsheets
 * [Posit Cheatsheet Library](https://rstudio.github.io/cheatsheets/)
   * In order of importance: Data import with `tidyverse` (loading data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
 
-# Useful Blog Posts
+## Useful Blog Posts
 * [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
   * Reproducible Data Science in R series
@@ -27,11 +28,13 @@ A list of resources for learning R at SPU
   * Data Viz
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
 
-# Useful Courses
+## Useful Courses
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
 
-# Useful Blogs
+## Useful Blogs
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
 # Entry-level Projects
 * under development
+
+# Version Control with `git`
