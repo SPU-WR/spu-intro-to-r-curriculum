@@ -51,7 +51,7 @@ A list of resources for learning R at SPU
 * [Beyond Basic R - Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/)
 
 ## Useful Courses
-* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
+* [Happy git with R](https://happygitwithr.com/)
 
 ## Useful Blogs
 * under development
