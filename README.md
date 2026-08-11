@@ -1,4 +1,4 @@
-# spu-intro-to-r-curriculum
+# Introduction to R Programming at Seattle Public Utilities (SPU)
 A list of resources for learning R at SPU
 
 # R
