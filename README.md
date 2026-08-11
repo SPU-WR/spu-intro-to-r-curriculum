@@ -33,6 +33,7 @@ A list of resources for learning R at SPU
     * [Duplicating Quarto elements with code templates to reduce copy and paste errors](https://waterdata.usgs.gov/blog/quarto-template-demo/)
   * Data Viz
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
+    * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 
 ## Useful Courses
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
