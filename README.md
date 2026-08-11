@@ -34,7 +34,27 @@ A list of resources for learning R at SPU
 ## Useful Blogs
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
-# Entry-level Projects
+## Entry-level Projects
 * under development
 
 # Version Control with `git`
+
+
+
+## Core Textbooks
+* [Chapter 20.1 Git and GitHub in R Packages (2e)](https://r-pkgs.org/software-development-practices.html#sec-sw-dev-practices-git-github)
+
+## Helpful Cheatsheets
+* under development
+
+## Useful Blog Posts
+* [Beyond Basic R - Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/)
+
+## Useful Courses
+* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
+
+## Useful Blogs
+* under development
+
+## Entry-level Projects
+* under development
