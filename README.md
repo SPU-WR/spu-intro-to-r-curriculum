@@ -1,8 +1,11 @@
 # Introduction to R Programming at Seattle Public Utilities (SPU)
 A list of resources for learning R at SPU
 
-<details>
+
 # R
+
+<details>
+ 
 ## Core Textbooks
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
 * [R Packages (2e)](https://r-pkgs.org/)
@@ -50,9 +53,11 @@ A list of resources for learning R at SPU
   * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
 </details>
 
-<details>
+
 # Version Control with `git`
 
+<details>
+ 
 ## Core Textbooks
 * [Chapter 20.1 Git and GitHub in R Packages (2e)](https://r-pkgs.org/software-development-practices.html#sec-sw-dev-practices-git-github)
 * [Pro Git](https://git-scm.com/book/en/v2)
@@ -71,9 +76,11 @@ A list of resources for learning R at SPU
 * [oh my git](https://ohmygit.org/)  - _not yet vetted_
 * [Learn git Branching](https://learngitbranching.js.org/) - _not yet vetted_
 * [Learn git. Solve mysteries.](https://www.gitnoir.com/)
-</details>
+
 ## Useful Blogs
 * under development
+
+</details>
 
 ## Entry-level Projects
 * under development
