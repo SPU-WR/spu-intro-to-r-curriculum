@@ -80,7 +80,7 @@ A list of resources for learning R at SPU
 ## Useful Blogs
 * under development
 
-</details>
-
 ## Entry-level Projects
 * under development
+
+</details>
