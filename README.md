@@ -75,7 +75,7 @@ A list of resources for learning R at SPU
 * [Happy git with R](https://happygitwithr.com/)
 * [oh my git](https://ohmygit.org/)  - _not yet vetted_
 * [Learn git Branching](https://learngitbranching.js.org/) - _not yet vetted_
-* [Learn git. Solve mysteries.](https://www.gitnoir.com/)
+* [Learn git. Solve mysteries.](https://www.gitnoir.com/) - _not yet vetted_
 
 ## Useful Blogs
 * under development
