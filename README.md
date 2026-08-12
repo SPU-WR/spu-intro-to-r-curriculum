@@ -52,15 +52,22 @@ A list of resources for learning R at SPU
 
 ## Core Textbooks
 * [Chapter 20.1 Git and GitHub in R Packages (2e)](https://r-pkgs.org/software-development-practices.html#sec-sw-dev-practices-git-github)
+* [Pro Git](https://git-scm.com/book/en/v2)
 
 ## Helpful Cheatsheets
 * under development
+
+## Useful Doc
+* [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
 ## Useful Blog Posts
 * [Beyond Basic R - Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/)
 
 ## Useful Courses
 * [Happy git with R](https://happygitwithr.com/)
+* [oh my git](https://ohmygit.org/)  - _not yet vetted_
+* [Learn git Branching](https://learngitbranching.js.org/) - _not yet vetted_
+* [Learn git. Solve mysteries.](https://www.gitnoir.com/)
 
 ## Useful Blogs
 * under development
