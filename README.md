@@ -95,10 +95,4 @@ A list of resources for learning R at SPU
 * [Learn git Branching](https://learngitbranching.js.org/) - _not yet vetted_
 * [Learn git. Solve mysteries.](https://www.gitnoir.com/) - _not yet vetted_
 
-## Useful blogs
-* under development
-
-## Entry-level projects
-* under development
-
 </details>
