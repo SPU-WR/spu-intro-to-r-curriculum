@@ -6,7 +6,7 @@ A list of resources for learning R at SPU
 
 <details>
  
-## Core Textbooks
+## Core textbooks
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
 * [R Packages (2e)](https://r-pkgs.org/)
 
@@ -20,11 +20,11 @@ A list of resources for learning R at SPU
 * Data Visualization
   * under development
 
-## Helpful Cheatsheets
+## Helpful cheatsheets
 * [Posit Cheatsheet Library](https://rstudio.github.io/cheatsheets/)
   * In order of importance: Data import with `tidyverse` (loading data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
 
-## Useful Blog Posts
+## Useful blog posts
 * [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
   * Reproducible Data Science in R series
@@ -40,13 +40,13 @@ A list of resources for learning R at SPU
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
     * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 
-## Useful Courses
+## Useful courses
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
 
-## Useful Blogs
+## Useful blogs
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
-## Entry-level Projects
+## Entry-level projects
 * Water Specific Examples
   * template repos
     * Under development
@@ -64,29 +64,29 @@ A list of resources for learning R at SPU
 
 <details>
  
-## Core Textbooks
+## Core textbooks
 * [Chapter 20.1 Git and GitHub in R Packages (2e)](https://r-pkgs.org/software-development-practices.html#sec-sw-dev-practices-git-github)
 * [Pro Git](https://git-scm.com/book/en/v2)
 
-## Helpful Cheatsheets
+## Helpful cheatsheets
 * under development
 
-## Useful Doc
+## Useful doc
 * [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
-## Useful Blog Posts
+## Useful blog posts
 * [Beyond Basic R - Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/)
 
-## Useful Courses
+## Useful courses
 * [Happy git with R](https://happygitwithr.com/)
 * [oh my git](https://ohmygit.org/)  - _not yet vetted_
 * [Learn git Branching](https://learngitbranching.js.org/) - _not yet vetted_
 * [Learn git. Solve mysteries.](https://www.gitnoir.com/) - _not yet vetted_
 
-## Useful Blogs
+## Useful blogs
 * under development
 
-## Entry-level Projects
+## Entry-level projects
 * under development
 
 </details>
