@@ -31,7 +31,7 @@ A list of resources for learning R at SPU
   * [Project-oriented workflows (Bryan, 2017)](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
   * [Don't Repeat Yourself (DRY)](https://lawsofsoftwareengineering.com/laws/dry-principle/)
 * Data Visualization
-* [A Layered Grammar of Graphics (Wickham, 2010)](https://vita.had.co.nz/papers/layered-grammar.pdf)
+  * [A Layered Grammar of Graphics (Wickham, 2010)](https://vita.had.co.nz/papers/layered-grammar.pdf)
   * [Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)
 
 ## Helpful cheatsheets
