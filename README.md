@@ -65,7 +65,7 @@ A list of resources for learning R at SPU
 </details>
 
 
-# Version Control with `git`
+# Version Control with `git` and GitHub
 
 <details>
  
@@ -77,7 +77,12 @@ A list of resources for learning R at SPU
 * under development
 
 ## Useful doc
-* [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+* Git
+  * [Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+* GitHub
+* [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* Markdown
+  * [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Useful blog posts
 * [Beyond Basic R - Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/)
