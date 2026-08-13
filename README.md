@@ -61,8 +61,9 @@ A list of resources for learning R at SPU
 * [R Crash Course](https://r-crash-course.github.io/) - Introduction to R for non-programmers using gapminder data
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/) - A course dedicated to everything that comes up during data analysis with R __except__ for statistical modelling and inference (i.e., data wrangling, exploration, and analysis)
 * [Write Efficient Scientific Code - the DRY (Don’t Repeat Yourself) Principle](https://earthdatascience.org/courses/earth-analytics/automate-science-workflows/write-efficient-code-for-science-r/) - course aimed at applying DRY principles to code development
-* [Fred Hutch Data Science COurses]()
-* [Intro to R](https://hutchdatascience.org/Intro_to_R/) - _not vetted_
+* [Fred Hutch Data Science Courses](https://ocdo.fredhutch.org/dasl/courses/) - available as self-guided resources
+  * [Intro to R](https://hutchdatascience.org/Intro_to_R/) - _not vetted_ Uses the Posit Cloud Workspace
+  * [Intermediate R](https://ocdo.fredhutch.org/dasl/courses/intermediate-r/) - _not vetted_ Uses the Posit Cloud Workspace
 
 ## Useful blogs
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
