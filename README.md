@@ -61,6 +61,7 @@ A list of resources for learning R at SPU
   * template repos
     * Under development
   * Introductory questions/problem statements
+    * Find and analyze 50-years of daily streamflow for the following USGS gages: 12114500, 12117500, 12117600, 12147600, 12148000, 12148300. Plot the median streamflow for each gage and month of the year for that period.
     * Which USGS gages are the oldest in the state? Where are the 10 oldest gages located?
     * How much water passes downstream of Landsburg diversion dam during Landsburg Headworks Annual Maintenance (LHAM)?
     * How does the current water year compare to all other water years? The driest water years? The wettest water years?
