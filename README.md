@@ -52,7 +52,7 @@ A list of resources for learning R at SPU
 
 ## Useful courses
 * [R Crash Course](https://r-crash-course.github.io/) - Introduction to R for non-programmers using gapminder data
-* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/) - A course focused on data wrangling, exploration, and analysis with R (or everything that comes up during data analysis __except__ for statistical modelling and inference)
+* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/) - A course dedicated to everything that comes up during data analysis with R __except__ for statistical modelling and inference (i.e., data wrangling, exploration, and analysis)
 
 ## Useful blogs
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
