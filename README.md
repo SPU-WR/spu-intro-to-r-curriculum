@@ -10,8 +10,13 @@ A list of resources for learning R at SPU
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
 * [R Packages (2e)](https://r-pkgs.org/)
 
-## Core packages
-* Tidyverse
+## Core `R` packages
+* [Tidyverse](https://tidyverse.org/)
+  * [readr](https://readr.tidyverse.org/)
+  * [dplyr](https://dplyr.tidyverse.org/)
+  * [ggplot2](https://ggplot2.tidyverse.org/)
+  * [lubridate](https://lubridate.tidyverse.org/)
+* [quarto](https://quarto.org/)
 * [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/)
 
 ## Core concepts
