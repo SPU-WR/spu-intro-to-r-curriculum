@@ -35,6 +35,7 @@ A list of resources for learning R at SPU
   * In order of importance: Data import with `tidyverse` (loading data), `tidyr` (tidy messy data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
 
 ## Useful blog posts
+* []()
 * [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
   * Reproducible Data Science in R series
@@ -51,6 +52,7 @@ A list of resources for learning R at SPU
     * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 
 ## Useful courses
+* [Introduction to R and RStudio](https://datacarpentry.github.io/r-intro-geospatial/01-rstudio-intro.html)
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
 
 ## Useful blogs
