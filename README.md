@@ -54,6 +54,7 @@ A list of resources for learning R at SPU
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
 
 ## Useful blogs
+* [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
 ## Entry-level projects
