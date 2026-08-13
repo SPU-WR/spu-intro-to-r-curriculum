@@ -27,6 +27,7 @@ A list of resources for learning R at SPU
 * Data Wrangling
   * [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
   * [Split-Apply-Combine](https://vita.had.co.nz/papers/plyr.pdf)
+  * [Don't Repeat Yourself (DRY)](https://earthdatascience.org/courses/earth-analytics/automate-science-workflows/write-efficient-code-for-science-r/)
 * Data Visualization
   * [Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)
 
