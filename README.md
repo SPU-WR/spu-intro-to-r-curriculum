@@ -27,7 +27,9 @@ A list of resources for learning R at SPU
 * Data Wrangling
   * [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
   * [Split-Apply-Combine](https://vita.had.co.nz/papers/plyr.pdf)
-  * [Don't Repeat Yourself (DRY)](https://earthdatascience.org/courses/earth-analytics/automate-science-workflows/write-efficient-code-for-science-r/)
+* Workflow Management
+  * [Project-oriented workflows](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
+  * [Don't Repeat Yourself (DRY)](https://lawsofsoftwareengineering.com/laws/dry-principle/)
 * Data Visualization
   * [Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)
 
@@ -36,7 +38,6 @@ A list of resources for learning R at SPU
   * In order of importance: Data import with `tidyverse` (loading data), `tidyr` (tidy messy data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
 
 ## Useful blog posts
-* [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
   * Reproducible Data Science in R series
     * [Writing functions that work for you](https://waterdata.usgs.gov/blog/rds-functions-that-work-for-you/)
@@ -54,6 +55,7 @@ A list of resources for learning R at SPU
 ## Useful courses
 * [R Crash Course](https://r-crash-course.github.io/) - Introduction to R for non-programmers using gapminder data
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/) - A course dedicated to everything that comes up during data analysis with R __except__ for statistical modelling and inference (i.e., data wrangling, exploration, and analysis)
+* [Write Efficient Scientific Code - the DRY (Don’t Repeat Yourself) Principle](https://earthdatascience.org/courses/earth-analytics/automate-science-workflows/write-efficient-code-for-science-r/) - course aimed at applying DRY principles to code development
 
 ## Useful blogs
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
