@@ -20,8 +20,8 @@ A list of resources for learning R at SPU
 * [quarto](https://quarto.org/) - reproducible reporting
 * [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/) - query USGS data
 * Geospatial packages
-* [sf](https://r-spatial.github.io/sf/reference/sf-package.html)
-* [terra](https://rspatial.github.io/terra/index.html)
+  * [sf](https://r-spatial.github.io/sf/reference/sf-package.html) - a standardized way to encode and analyze spatial vector data (vectors only)
+  * [terra](https://rspatial.github.io/terra/index.html) - spatial data handling (both rasters and vectors)
 
 ## Core concepts
 * Data Wrangling
