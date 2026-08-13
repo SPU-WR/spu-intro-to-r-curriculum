@@ -52,8 +52,8 @@ A list of resources for learning R at SPU
     * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
 
 ## Useful courses
-* [Introduction to R and RStudio](https://datacarpentry.github.io/r-intro-geospatial/01-rstudio-intro.html)
-* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/)
+* [R Crash Course](https://r-crash-course.github.io/) - Introduction to R for non-programmers using gapminder data
+* [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/) - Data wrangling, exploration, and analysis with R
 
 ## Useful blogs
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
