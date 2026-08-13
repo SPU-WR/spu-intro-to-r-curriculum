@@ -4,7 +4,7 @@ A list of resources for learning R at SPU
 
 # R
 
-<details>
+<notes>
  
 ## Core Textbooks
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
@@ -51,7 +51,7 @@ A list of resources for learning R at SPU
   * Under development
 * Other
   * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
-</details>
+</notes>
 
 
 # Version Control with `git`
