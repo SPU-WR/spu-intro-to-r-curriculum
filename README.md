@@ -4,7 +4,7 @@ A list of resources for learning R at SPU
 
 # R
 
-<notes>
+<details>
  
 ## Core Textbooks
 * [R for Data Science (2e)](https://r4ds.hadley.nz/)
@@ -48,10 +48,16 @@ A list of resources for learning R at SPU
 
 ## Entry-level Projects
 * Water Specific Examples
-  * Under development
+  * template repos
+    * Under development
+  * Introductory questions/problem statements
+    * Identify the top 10 oldest USGS gaging stations in the state of Washington
+    * How much water passes downstream of Landsburg diversion dam during Landsburg Headworks Annual Maintenance (LHAM)?
+    * How does the current water year compare to all other water years? The driest water years? The wettest water years?
+      * Expand this analysis to include "WY+1" (i.e., WY2020-2021)
 * Other
   * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
-</notes>
+</details>
 
 
 # Version Control with `git`
