@@ -51,7 +51,7 @@ A list of resources for learning R at SPU
   * template repos
     * Under development
   * Introductory questions/problem statements
-    * Identify the top 10 oldest USGS gaging stations in the state of Washington
+    * Which USGS gages are the oldest in the state? Where are the 10 oldest gages located?
     * How much water passes downstream of Landsburg diversion dam during Landsburg Headworks Annual Maintenance (LHAM)?
     * How does the current water year compare to all other water years? The driest water years? The wettest water years?
       * Expand this analysis to include "WY+1" (i.e., WY2020-2021)
