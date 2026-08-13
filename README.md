@@ -1,6 +1,9 @@
 # Introduction to R Programming at Seattle Public Utilities (SPU)
 A list of resources for learning R at SPU
 
+> It’s easy when you start out programming to get really frustrated and think, “Oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again later.
+
+[Hadley Wickham](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/)
 
 # R
 
@@ -52,11 +55,14 @@ A list of resources for learning R at SPU
   * Data Viz
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
     * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
+  * [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/datademos/)
 
 ## Useful courses
 * [R Crash Course](https://r-crash-course.github.io/) - Introduction to R for non-programmers using gapminder data
 * [STAT 545, Jenny Bryan, University of British Columbia](https://stat545.com/) - A course dedicated to everything that comes up during data analysis with R __except__ for statistical modelling and inference (i.e., data wrangling, exploration, and analysis)
 * [Write Efficient Scientific Code - the DRY (Don’t Repeat Yourself) Principle](https://earthdatascience.org/courses/earth-analytics/automate-science-workflows/write-efficient-code-for-science-r/) - course aimed at applying DRY principles to code development
+* [Fred Hutch Data Science COurses]()
+* [Intro to R](https://hutchdatascience.org/Intro_to_R/) - _not vetted_
 
 ## Useful blogs
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
