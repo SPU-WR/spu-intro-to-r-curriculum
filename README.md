@@ -43,6 +43,10 @@ A list of resources for learning R at SPU
 
 ## Useful blog posts
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
+  * Beyond Basic R series
+    * [The case for reproducibility](https://waterdata.usgs.gov/blog/reproducibility/)
+    * [Introduction and Best Practices](https://waterdata.usgs.gov/blog/intro-best-practices/)
+    * [Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/) - _this should technically be in the `git` section below
   * Reproducible Data Science in R series
     * [Writing functions that work for you](https://waterdata.usgs.gov/blog/rds-functions-that-work-for-you/)
     * [Writing better functions](https://waterdata.usgs.gov/blog/rds-better-functions/)
@@ -55,7 +59,7 @@ A list of resources for learning R at SPU
   * Data Viz
     * [Jazz up your ggplots!](https://waterdata.usgs.gov/blog/ggplot-jazz/)
     * [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
-  * [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/datademos/)
+
 
 ## Useful courses
 * [R Crash Course](https://r-crash-course.github.io/) - Introduction to R for non-programmers using gapminder data
@@ -68,7 +72,8 @@ A list of resources for learning R at SPU
 ## Useful blogs
 * [USGS Water Data for the Nation Blog](https://waterdata.usgs.gov/blog/)
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
-
+* [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/datademos/)
+  
 ## Entry-level projects
 * Water Specific Examples
   * template repos
