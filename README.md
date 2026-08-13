@@ -13,7 +13,8 @@ A list of resources for learning R at SPU
 ## Core `R` packages
 * [Tidyverse](https://tidyverse.org/)
   * [readr](https://readr.tidyverse.org/) - load rectangular data (`csv` and txt` files)
-  * [dplyr](https://dplyr.tidyverse.org/) - manipulate and summarise data
+  * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data
+  * [dplyr](https://dplyr.tidyverse.org/) - manipulate and summarise tidy data
   * [lubridate](https://lubridate.tidyverse.org/) - manipulate dates and times
   * [ggplot2](https://ggplot2.tidyverse.org/) - plot data
 * [quarto](https://quarto.org/) - reproducible reporting
@@ -21,13 +22,14 @@ A list of resources for learning R at SPU
 
 ## Core concepts
 * Data Wrangling
+  * [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
   * [Split-Apply-Combine](https://vita.had.co.nz/papers/plyr.pdf)
 * Data Visualization
   * [Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)
 
 ## Helpful cheatsheets
 * [Posit Cheatsheet Library](https://rstudio.github.io/cheatsheets/)
-  * In order of importance: Data import with `tidyverse` (loading data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
+  * In order of importance: Data import with `tidyverse` (loading data), `tidyr` (tidy messy data), `dplyr` (data wrangling), `ggplot2` (data viz), `lubridate` (date handling), `Quarto` (reporting) 
 
 ## Useful blog posts
 * [Project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
