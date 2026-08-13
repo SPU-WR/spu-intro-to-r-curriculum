@@ -51,6 +51,11 @@ A list of resources for learning R at SPU
 ## Useful blogs
 * [USGS VizLab home](https://water.usgs.gov/vizlab/index.html)
 
+## Advanced topics
+* Reproducible pipelines with the `targets` package
+  * [targets](https://docs.ropensci.org/targets/) - Function-oriented Make-like declarative workflows for R
+  * [The {targets} R package user manual](https://books.ropensci.org/targets/)
+
 ## Entry-level projects
 * Water Specific Examples
   * template repos
