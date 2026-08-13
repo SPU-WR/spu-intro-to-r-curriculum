@@ -12,12 +12,12 @@ A list of resources for learning R at SPU
 
 ## Core `R` packages
 * [Tidyverse](https://tidyverse.org/)
-  * [readr](https://readr.tidyverse.org/)
-  * [dplyr](https://dplyr.tidyverse.org/)
-  * [ggplot2](https://ggplot2.tidyverse.org/)
-  * [lubridate](https://lubridate.tidyverse.org/)
-* [quarto](https://quarto.org/)
-* [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/)
+  * [readr](https://readr.tidyverse.org/) - load rectangular data (`csv` and txt` files)
+  * [dplyr](https://dplyr.tidyverse.org/) - manipulate and summarise data
+  * [lubridate](https://lubridate.tidyverse.org/) - manipulate dates and times
+  * [ggplot2](https://ggplot2.tidyverse.org/) - plot data
+* [quarto](https://quarto.org/) - reproducible reporting
+* [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/) - query USGS data
 
 ## Core concepts
 * Data Wrangling
