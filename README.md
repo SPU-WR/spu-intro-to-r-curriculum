@@ -46,7 +46,7 @@ A list of resources for learning R at SPU
   * Beyond Basic R series
     * [The case for reproducibility](https://waterdata.usgs.gov/blog/reproducibility/)
     * [Introduction and Best Practices](https://waterdata.usgs.gov/blog/intro-best-practices/)
-    * [Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/) - _this should technically be in the `git` section below
+    * [Version Control with Git](https://waterdata.usgs.gov/blog/beyond-basic-git/) - _this should technically be in the `git` section below_
   * Reproducible Data Science in R series
     * [Writing functions that work for you](https://waterdata.usgs.gov/blog/rds-functions-that-work-for-you/)
     * [Writing better functions](https://waterdata.usgs.gov/blog/rds-better-functions/)
