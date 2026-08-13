@@ -12,13 +12,16 @@ A list of resources for learning R at SPU
 
 ## Core `R` packages
 * [Tidyverse](https://tidyverse.org/)
-  * [readr](https://readr.tidyverse.org/) - load rectangular data (`csv` and txt` files)
+  * [readr](https://readr.tidyverse.org/) - load rectangular data (`csv` and `txt` files)
   * [tidyr](https://tidyr.tidyverse.org/) - tidy messy data
   * [dplyr](https://dplyr.tidyverse.org/) - manipulate and summarise tidy data
   * [lubridate](https://lubridate.tidyverse.org/) - manipulate dates and times
-  * [ggplot2](https://ggplot2.tidyverse.org/) - plot data
+  * [ggplot2](https://ggplot2.tidyverse.org/) - plot data using a layered approach
 * [quarto](https://quarto.org/) - reproducible reporting
 * [USGS Data Retrieval](https://doi-usgs.github.io/dataRetrieval/) - query USGS data
+* Geospatial packages
+* [sf](https://r-spatial.github.io/sf/reference/sf-package.html)
+* [terra](https://rspatial.github.io/terra/index.html)
 
 ## Core concepts
 * Data Wrangling
@@ -70,6 +73,7 @@ A list of resources for learning R at SPU
 * Reproducible pipelines with the `targets` package
   * [targets](https://docs.ropensci.org/targets/) - Function-oriented Make-like declarative workflows for R
   * [The {targets} R package user manual](https://books.ropensci.org/targets/)
+  * [geotargets](https://docs.ropensci.org/geotargets/index.html) - a `targets` extension for working with geospatial data
 
 </details>
 
