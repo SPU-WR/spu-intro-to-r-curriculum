@@ -23,7 +23,7 @@ A list of resources for learning R at SPU
 * Data Wrangling
   * [Split-Apply-Combine](https://vita.had.co.nz/papers/plyr.pdf)
 * Data Visualization
-  * under development
+  * [Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)
 
 ## Helpful cheatsheets
 * [Posit Cheatsheet Library](https://rstudio.github.io/cheatsheets/)
