@@ -105,6 +105,7 @@ A list of resources for learning R at SPU
 ## Core textbooks
 * [Chapter 20.1 Git and GitHub in R Packages (2e)](https://r-pkgs.org/software-development-practices.html#sec-sw-dev-practices-git-github)
 * [Pro Git](https://git-scm.com/book/en/v2)
+* [git for R](https://utdata.github.io/git-for-r/)
 
 ## Helpful cheatsheets
 * under development
