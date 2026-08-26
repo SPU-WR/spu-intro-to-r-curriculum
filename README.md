@@ -85,6 +85,9 @@ A list of resources for learning R at SPU
     * How much water passes downstream of Landsburg diversion dam during Landsburg Headworks Annual Maintenance (LHAM)?
     * How does the current water year compare to all other water years? The driest water years? The wettest water years?
       * Expand this analysis to include "WY+1" (i.e., WY2020-2021)
+    * Find and analyze SNOTEL data for the following sites: Cougar Mountain (420), Meadows Pass (897), Tinkham Creek (899), Mount Gardner (898), Stevens Pass (791), Stampede Pass (788), Olallie Meadows (672), Skookum Creek (912), Rex River (911)
+      * Which station receives the most snow?
+      * How does snowfall this water year compare to other water years?
 * Other
   * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
 
