@@ -76,7 +76,7 @@ A list of resources for learning R at SPU
 * [Fred Hutch Biomedical Data Science Wiki](https://sciwiki.fredhutch.org/datademos/)
   
 ## Entry-level projects
-* Water Specific Examples
+* Water Specific Examples - all entry-level projects should be completed using a [project-oriented workflow](https://tidyverse.org/blog/2017/12/workflow-vs-script/)
   * template repos
     * Under development
   * Introductory questions/problem statements
