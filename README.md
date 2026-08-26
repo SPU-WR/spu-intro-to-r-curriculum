@@ -88,6 +88,7 @@ A list of resources for learning R at SPU
     * Find and analyze SNOTEL data for the following sites: Cougar Mountain (420), Meadows Pass (897), Tinkham Creek (899), Mount Gardner (898), Stevens Pass (791), Stampede Pass (788), Olallie Meadows (672), Skookum Creek (912), Rex River (911)
       * Which station receives the most snow?
       * How does snowfall this water year compare to other water years?
+  * Summarise your findings related to the USGS gages in a powerpoint (pptx) created using Quarto
 * Other
   * [Data Science in a Box Interactive Tutorials](https://datasciencebox.org/02-interactive-tutorials)
 
