@@ -37,6 +37,7 @@ A list of resources for learning R at SPU
 * Data Visualization
   * [A Layered Grammar of Graphics (Wickham, 2010)](https://vita.had.co.nz/papers/layered-grammar.pdf)
   * [Best Practices for Data Visualization](https://royal-statistical-society.github.io/datavisguide/)
+  * [What This Graph of a Dinosaur Can Teach Us about Doing Better Science](https://www.scientificamerican.com/article/what-this-graph-of-a-dinosaur-can-teach-us-about-doing-better-science/)
 
 ## Helpful cheatsheets
 * [Posit Cheatsheet Library](https://rstudio.github.io/cheatsheets/)
